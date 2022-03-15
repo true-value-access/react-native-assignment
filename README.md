@@ -57,7 +57,8 @@ User -
   1. Create MRs and merge into main branch
   1. When done, Test if all task requirements are met and instructions followed
   1. Push code to github
-  1. Share your **repo url** and **apk** on email [careers@datapeace.in](mailto:careers@datapeace.in)
+  1. Reply to the same email with the **repo URL** and **apk**
+- For any queries please email us at [hiring@truevalueaccess.com](mailto:hiring@truevalueaccess.com)
 
 ## Wireframes:
 
