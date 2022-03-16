@@ -48,10 +48,10 @@ User -
 - [ ] **IMPORTANT**: Pagination, search etc. should be implemented manually in the frontend only. **DO NOT** use 3rd party library or inbuilt feature for these.
 - [ ] Data should be _fetched_ from the [api provided](https://datapeace-storage.s3-us-west-2.amazonaws.com/dummy_data/users.json) (and not stored in source code)
 - [ ] `yarn start-android` (or `npm run start-android` if using npm) should start the app in connected device or emulator. Similarly for ios.
-- [ ] repo should not contain irrelevant folders/files like node_modules, build directories etc.
+- [ ] Repo should not contain irrelevant folders/files like node_modules, build directories etc.
 - [ ] Follow the [wireframes](#wireframes) provided closely
 - [ ] Follow these steps for submission:
-  1. Clone the repository
+  1. Fork the repository
   1. Create issues and work on them in their respective branches
   1. Complete the tasks while following all instructions
   1. Create MRs and merge into main branch
